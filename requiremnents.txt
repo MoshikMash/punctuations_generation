@@ -1,0 +1,7 @@
+boto3~=1.26.54
+transformers~=4.25.1
+botocore~=1.29.54
+numpy~=1.24.1
+pandas~=1.5.3
+torch~=1.13.1+cu117
+streamlit~=1.18.1
